@@ -45,16 +45,14 @@ Bash
 npx expo start
 Ejecutar en tu móvil: Escanea el código QR con la app Expo Go (Android) o la cámara (iOS).
 
-📂 Estructura del Proyecto
 
-Appdenotas/
-├── app/
-│   ├── (tabs)/
-│   │   └── index.tsx     # Pantalla principal (Lista y Búsqueda)
-│   └── create.tsx        # Pantalla de creación y edición
-├── storage.ts            # Lógica de persistencia con AsyncStorage
-├── package.json          # Dependencias del proyecto
-└── README.md             # Documentación
+📂 Estructura del Proyecto
+<img width="369" height="142" alt="image" src="https://github.com/user-attachments/assets/a4627edb-9005-41a0-91cc-57c220219b12" />
+
+
+
+
+
 
 👤 Autor
 Cristian - UserCristian28
